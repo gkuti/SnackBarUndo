@@ -5,4 +5,9 @@
 /.idea/libraries
 .DS_Store
 /build
+*.jks
 /captures
+/standOut
+/library
+/mylibrary
+/app
