@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary2">#384348</color>
+    <color name="colorPrimary">#324b77</color>
+    <color name="colorPlaceHolder">#3b599c</color>
+    <color name="colorPrimaryDark">#23334d</color>
+    <color name="colorAccent">#719ded</color>
+    <color name="Ash">#192c33</color>
+    <color name="white">#ffffff</color>
+    <color name="whitish">#f4f4f4</color>
+    <color name="user_acct_divider_color">#dadada</color>
+    <color name="black">#000</color>
+    <color name="shadow">#4e393939</color>
+    <color name="text">#585858</color>
+    <color name="bg">#80cac4</color>
+    <color name="press">#8c719ded</color>
+    <color name="colorTabPressed">#96ffffff</color>
+</resources>

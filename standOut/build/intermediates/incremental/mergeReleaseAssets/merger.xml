@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kutigbolahan/Documents/Pastify/standOut/src/main/assets"/><source path="/Users/kutigbolahan/Documents/Pastify/standOut/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/kutigbolahan/Documents/Pastify/standOut/src/release/assets"/></dataSet></merger>

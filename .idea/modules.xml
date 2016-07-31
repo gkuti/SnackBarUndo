@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pastify.iml" filepath="$PROJECT_DIR$/Pastify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbarundo/snackbarundo.iml" filepath="$PROJECT_DIR$/snackbarundo/snackbarundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standOut/standOut.iml" filepath="$PROJECT_DIR$/standOut/standOut.iml" />
+    </modules>
+  </component>
+</project>

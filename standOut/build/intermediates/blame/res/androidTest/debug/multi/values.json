@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/kutigbolahan/Documents/Pastify/standOut/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/kutigbolahan/Documents/Pastify/standOut/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 41,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "/Users/kutigbolahan/Documents/Pastify/standOut/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 41,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 37,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "/Users/kutigbolahan/Documents/Pastify/standOut/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 37,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 45,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/Users/kutigbolahan/Documents/Pastify/standOut/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 45,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 51,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "/Users/kutigbolahan/Documents/Pastify/standOut/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 51,
+                        "endOffset": 268
+                    }
+                }
+            }
+        ]
+    }
+]
