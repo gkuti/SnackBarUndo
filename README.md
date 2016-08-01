@@ -39,8 +39,7 @@ Add the JitPack repository to your build file
 	</dependency>
 
 
-NOTE that the library should be used with a `Cordinator layout` as your root 
-GONE, or both the data and the undo layout will be displayed in the row at the same time.
+NOTE that the library should be used with a `Cordinator layout` as your root.
 
 
 Usage
