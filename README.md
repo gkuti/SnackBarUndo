@@ -70,7 +70,7 @@ Contribute
 License
 =======
 
-    Copyright 2011, 2015 Kai Liao
+    Copyright 2016 Kuti Gbolahan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
