@@ -39,7 +39,7 @@ Add the JitPack repository to your build file
 	</dependency>
 
 
-NOTE that the library should be used with a `Cordinator layout` as your root.
+NOTE that the library should be used with a `Coordinator layout` as your root element.
 
 
 Usage
@@ -49,7 +49,7 @@ Create and instance of SnackBarUndo
     SnackBarUndo snackBarUndo = new SnackBarUndo(list,coordinatorLayout,AdapterClass.this);
 ```
 
-In your project delete method call the snackBarUndo.delete() method and pass in the adapter position using `getAdapterPosition()` and SnackBarUndoCallback()
+In your project's `delete method`, call the snackBarUndo.delete() method and pass in the adapter position using `getAdapterPosition()` and SnackBarUndoCallback()
 ```java
 void delete(){
     snackBarUndo.delete(getAdapterPosition(), new SnackBarUndoCallback() {
