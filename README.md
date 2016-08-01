@@ -44,7 +44,7 @@ NOTE that the library should be used with a `Coordinator layout` as your root el
 
 Usage
 ==============
-Create and instance of SnackBarUndo
+Create an instance of SnackBarUndo
 ```java
     SnackBarUndo snackBarUndo = new SnackBarUndo(list,coordinatorLayout,AdapterClass.this);
 ```
